@@ -3,19 +3,22 @@
 ## Table of Contents
 
 * [Access to File](#access)
+* [Brief about app.js](#brief)
 * [Webpages consulted](#webpages)
 * [Contributers](#contributers)
 
-## Instructions
+## Access
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+To view project, please locate index.html in main directory.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Brief on js/app.js
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+- made use of DOM to select elmets
+- changed `.innerHTML` to add content to list item
+- used `scrollIntoView` to create highlight when section was in view.
+- used `classList` property to change class.
 
-## Webpages Consulted
-
+## Webpages consulted
 To help with the project, I consulted 2 webpages.
 https://github.com/AhmeddSaid/Landing-Page/blob/main/js/app.js & 
 https://www.youtube.com/watch?v=4qhTwwe985o&t=2s
