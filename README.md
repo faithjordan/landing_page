@@ -17,7 +17,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 ## Webpages Consulted
 
 To help with the project, I consulted 2 webpages.
-https://github.com/AhmeddSaid/Landing-Page/blob/main/js/app.js
+https://github.com/AhmeddSaid/Landing-Page/blob/main/js/app.js & 
 https://www.youtube.com/watch?v=4qhTwwe985o&t=2s
 
 ## Contributers
@@ -25,5 +25,3 @@ https://www.youtube.com/watch?v=4qhTwwe985o&t=2s
 Udacity
 Faith Jordan
  
-# Landing Page
-#Landing Page
