@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Webpages consulted] (#webpages)
-* [Contributers] (#contributers)
+* [Webpages consulted](#https://github.com/faithjordan/landing_page/blob/master/README.md#webpages-consulted)
+* [Contributers](#contributers)
 
 ## Instructions
 
