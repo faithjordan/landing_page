@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Webpages consulted](#https://github.com/faithjordan/landing_page/blob/master/README.md#webpages-consulted)
+* [Access to File](#access)
+* [Webpages consulted](#webpages)
 * [Contributers](#contributers)
 
 ## Instructions
